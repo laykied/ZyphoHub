@@ -4,6 +4,6 @@ This is a mix of my websites, [ByePassHub](https://github.com/wea-f/ByePassHub/b
 ### Frogies Arcade  
 https://spells.myaddr.dev/  
 https://icarus.tk/  
-https://directory.leeschoolsk12.org.cdn.cloudflare.net/
+https://directory.leeschoolsk12.org.cdn.cloudflare.net/  
 http://math-homework.site  
 http://venturehq.net
