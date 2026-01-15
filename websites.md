@@ -9,8 +9,8 @@ http://math-homework.site
 http://venturehq.net
 
 gn math | ByePassHub  
-https://math-lessons-space-17244170.codehs.me/index.html	 
-https://crimsonviper8605.codehs.me/  
+https://math-lessons-space-17244170.codehs.me/index.html    
+https://crimsonviper8605.codehs.me/    
 https://indexkool-17244295.codehs.me/index.html  
 https://slingshotswitch-17245605.codehs.me/  
 https://homework-gaming-17245536.codehs.me/	 
