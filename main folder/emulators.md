@@ -1,6 +1,6 @@
 # Emulators
 This list of emulators is from [jsemu](https://github.com/fcambus/jsemu/tree/master) so credits AND thanks to [fcambus or Frederic Cambus](https://github.com/fcambus) for finding all these emulators even though my school blocked half of these. 
-# Acorn  
+## Acorn  
 [Atom Tiny Emu](https://floooh.github.io/tiny8bit/atom.html) - by Andre Weissflog  
 [Acorn Atom Emulator](http://econet.network/atom/) - by Phil Mainwaring. Software archive [here](http://econet.network/atom/menu.html).  
 [ElkJS](https://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator. ([Source](https://github.com/dmcoles/elkjs))  
