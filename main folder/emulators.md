@@ -6,4 +6,5 @@ This list of emulators is from [jsemu](https://github.com/fcambus/jsemu/tree/mas
 [ElkJS](https://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator. ([Source](https://github.com/dmcoles/elkjs))  
 [JSBeeb](https://bbc.xania.org/) - JavaScript BBC Micro emulator. ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](https://xania.org/Emulation))  
 [JSAtom](https://atom.commandercoder.com/?model=atom) - JavaScript Acorn Atom emulator including Software Archive ([Source](https://github.com/CommanderCoder/JSATOM_old)) Based on JSBeeb.  
-
+## Altair  
+[MITS Altair Simulator](https://s2js.com/altair/) Front panel simulation of the 8080-based Altair, by Ian Davies, built on 8080.js  
