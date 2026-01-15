@@ -1,5 +1,5 @@
 # Acorn  
-Atom Tiny Emu - by Andre Weissflog (source)https://floooh.github.io/tiny8bit/atom.html    
+(Atom Tiny Emu) - by Andre Weissflog (source)  
 Acorn Atom Emulator - by Phil Mainwaring. Software archive here. (Older version here: Type "OLD" for an Easter Egg.)  
 ElkJS - JavaScript based Acorn Electron emulator (Source)  
 JSBeeb - JavaScript BBC Micro emulator (Source) (Development blog)  
