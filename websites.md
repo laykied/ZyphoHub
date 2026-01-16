@@ -17,9 +17,7 @@ https://columbiapublicschools.org/
 https://northfayetteschools.org/    
 https://cliffschools.org/    
 https://caisseforsmithfieldschools.org/    
-https://directory.leeschoolsk12.org/    
-https://powerschool.mansfieldtownshipschooldistrict.org/    
-https://classlink.mansfieldtownshipschooldistrict.org/    
+https://directory.leeschoolsk12.org/     
 
 ### gn math | ByePassHub  
 https://math-lessons-space-17244170.codehs.me/index.html    
