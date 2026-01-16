@@ -1,4 +1,4 @@
-# Bros Got It On Github | Emulators
+# ZyphoHub | Emulators
 
 This list of emulators is from [jsemu](https://github.com/fcambus/jsemu/tree/master) so credits AND thanks to [fcambus or Frederic Cambus](https://github.com/fcambus) for finding all these emulators even though my school blocked half of these. 
 
