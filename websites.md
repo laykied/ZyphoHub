@@ -6,7 +6,20 @@ https://spells.myaddr.dev/
 https://icarus.tk/  
 https://directory.leeschoolsk12.org.cdn.cloudflare.net/  
 http://math-homework.site  
-http://venturehq.net
+http://venturehq.net    
+https://smdpschool.org/    
+https://oldmillschool.org/    
+https://allyisgoingbacktomexi.co/    
+https://goguardian-is.verymad.net/    
+https://education.thestatesman.us/    
+https://students.artsineducation.net/    
+https://columbiapublicschools.org/    
+https://northfayetteschools.org/    
+https://cliffschools.org/    
+https://caisseforsmithfieldschools.org/    
+https://directory.leeschoolsk12.org/    
+https://powerschool.mansfieldtownshipschooldistrict.org/    
+https://classlink.mansfieldtownshipschooldistrict.org/    
 
 ### gn math | ByePassHub  
 https://math-lessons-space-17244170.codehs.me/index.html    
